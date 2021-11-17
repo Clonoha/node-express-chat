@@ -1,0 +1,1 @@
+J'ai créé un bouton "login" pour créer un nouvel utilisateur dans la base de données, mais je me suis rendue compte un peu trop tard qu'il ne sert à rien et que j'aurai pu créer l'utilisateur en même temps que le message via le bouton "submit"
